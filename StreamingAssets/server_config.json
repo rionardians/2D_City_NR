@@ -1,0 +1,10 @@
+{
+  "max_player": 1000,
+  "whitelisted_player": [
+    "rioarsa.testnet",
+    "rioarsa"
+  ],
+  "max_anon": 2,
+  "server_port_tcp": 7775,
+  "server_port_web": 7776
+}
