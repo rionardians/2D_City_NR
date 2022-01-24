@@ -14,7 +14,7 @@ var config = {
     streamingAssetsUrl: "StreamingAssets",
     companyName: "RealityChain",
     productName: "2dverse: Paras World",
-    productVersion: "0.9.3.U",
+    productVersion: "0.9.4.M",
 };
 container.setAttribute("isportrait", false);
 
