@@ -14,7 +14,7 @@ var config = {
     streamingAssetsUrl: "StreamingAssets",
     companyName: "RealityChain",
     productName: "2dverse: Test Small World",
-    productVersion: "0.9.6.0215.1410",
+    productVersion: "0.9.5.T",
 };
 container.setAttribute("isportrait", false);
 
