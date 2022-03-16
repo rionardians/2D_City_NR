@@ -14,7 +14,7 @@ var config = {
     streamingAssetsUrl: "StreamingAssets",
     companyName: "RealityChain",
     productName: "2dverse: Near World",
-    productVersion: "0.9.6.N",
+    productVersion: "0.9.7.N",
 };
 container.setAttribute("isportrait", false);
 
