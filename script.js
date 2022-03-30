@@ -13,8 +13,8 @@ var config = {
     codeUrl: "Build/Near.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "RealityChain",
-    productName: "2dverse: Near World",
-    productVersion: "0.9.7.N",
+    productName: "2dverse",
+    productVersion: "0.9.7.MOCCA",
 };
 container.setAttribute("isportrait", false);
 
