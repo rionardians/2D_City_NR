@@ -14,7 +14,7 @@ var config = {
     streamingAssetsUrl: "StreamingAssets",
     companyName: "RealityChain",
     productName: "2dverse",
-    productVersion: "0.9.7.MOCCA",
+    productVersion: "0.9.7.5.MOCCA",
 };
 container.setAttribute("isportrait", false);
 
